@@ -24,7 +24,7 @@ MovieLens dataset with side information from IMDB.
 
 | distribution | completeness |
 | :------------------: | :------------------: |
-| ![](https://raw.githubusercontent.com/felixnie/img/main/movielens-imdb-05.png) | ![](https://raw.githubusercontent.com/felixnie/img/main/movielens-imdb-06.png) |
+| ![](https://raw.githubusercontent.com/felixnie/img/main/movielens-imdb-06.png) | ![](https://raw.githubusercontent.com/felixnie/img/main/movielens-imdb-05.png) |
 
 ## 3. `ml_10m_imdb` MovieLens-10m IMDB dataset
 
